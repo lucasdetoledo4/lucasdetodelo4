@@ -16,13 +16,13 @@ Based in Florianópolis 🇧🇷
 
 ```python
 lucas = {
-    code: [Python, C++, SQL, Rust (enthusiast), TypeScript (some)],
-    tools: [FastAPI, SQLAlchemy, MongoDB, Celery, RabbitMQ, Docker, Keycloak],
-    ml: [Classical ML, Deep Learning, Signal Processing, Geo Processing],
-    infra: [AWS, GCP, Docker],
-    background: Materials Engineering (UFSC) → Software & ML,
-    currently_building: quietbug — catches sloppy code LLMs write,
-    challenge: Simple code, interesting problems.
+    "code": [Python, C++, SQL, Rust (enthusiast), TypeScript (some)],
+    "tools": [FastAPI, SQLAlchemy, MongoDB, Celery, RabbitMQ, Docker, Keycloak],
+    "ml": [Classical ML, Deep Learning, Signal Processing, Geo Processing],
+    "infra": [AWS, GCP, Docker],
+    "background": Materials Engineering (UFSC) → Software & ML,
+    "currently_building": quietbug — catches sloppy code LLMs write,
+    "challenge": Simple code, interesting problems.
 }
 ```
 
