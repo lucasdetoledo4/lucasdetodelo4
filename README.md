@@ -1,8 +1,8 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+<tr style="border:none;">
+<td width="65%" valign="top" style="border:none;">
 
-<h2>Hi, I'm Lucas Barreto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+<h2>Hi, I'm Lucas Barreto also known as toledo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 Software Engineer at <a href="https://gemineers.com">gemineers GmbH</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"><br/>
 Based in Florianópolis 🇧🇷
@@ -11,9 +11,9 @@ Based in Florianópolis 🇧🇷
 [![GitHub Lucas](https://img.shields.io/github/followers/lucasdetoledo4?label=follow&style=social)](https://github.com/lucasdetoledo4)
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="35%" valign="top" align="right" style="border:none;">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="280">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9xOTZ5M201Z3RrM205Ym4xZ3ZybGNxNGNwYXRtN3kyM21jNnJsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" align="right">
 
 </td>
 </tr>
